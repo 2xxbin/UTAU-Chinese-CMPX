@@ -1,0 +1,197 @@
+VV+a'a'o'a'e'a'yi'a 아'아'오어'아'으어'이'아
+VV+a'ii'a'wu 아'으'아'우
+VV+o'o'e'o'yi'o'ii'o 오어'오어'으어'오어'이'오어'으'오어
+VV+o'wu'o'yu 오어'우'오어'(v)위
+VV+e'e'yi'e'ii'e'wu'e 으어'으어'이'으어'으'으어'우'으어
+VV+e'yu'e'er 으어'(v)위'으어'(er)얼
+VV+yi'yi'ii'yi'wu'yi'yu'yi 이'이'으'이'우'이'(v)위'이
+VV+yi'er'yi'oo 이'(er)얼'이'오
+VV+ii'ii'wu'ii'yu'ii'er'ii 으'으'우'으'(v)위'으'(er)얼'으
+VV+ii'oo'ii'ee 으'오'으'에
+VV+wu'wu'yu'wu'er'wu'oo'wu 우'우'(v)위'우'(er)얼'우'오'우
+VV+wu'ee'wu'a 우'에'우'아
+VV+yu'yu'er'yu'oo'yu'ee'yu (v)위'(v)위'(v)위'(er)얼'(v)위'오'(v)위'에'(v)위
+VV+yu'a'yu'o (v)위'아'(v)위'오어
+VV+er'er'oo'er'ee'er'a'er (er)얼'(er)얼'오'(er)얼'에'(er)얼'아'(er)얼
+VV+er'o'er'e (er)얼'오어'(er)얼'에
+VV+oo'oo'ee'oo'a'oo'o'oo 오'오'에'오'아'오'오어'오
+VV+oo'e'oo'yi 오'으어'오'이
+VV+ee'ee'a'ee'o'ee'e'ee 에'에'아'에'오어'에'으어'에
+VV+ee'yi'ee'ii 에'이'에'으
+
+-C+m'ma_f'fa_n'na ㅁ'마_(f)ㅍ'퐈_ㄴ'나
+-C+l'la_z'za_s'sa ㄹ'라_(z)ㅈ'자_ㅆ'싸
+-C+zh'zha_ch'cha_sh'sha (zh)ㅈ'자_(ch)ㅊ'차_(sh)ㅅ'사
+-C+r'ri_x'xi (r)ㄹ'르_(x)ㅆ'씨
+
+-CV+ha_he_hu_hW'wu 하_흐어_후_후'우
+-CV+hoo_hee 호_헤
+
+F_SV+Y'ya_Y'ye_Y'you 이'야_이'예_이'요우
+F_SV+W'wa_W'wen_W'wo 우'와_우'원_우'워
+F_SV+W'wei_V've 우'웨이_(v)위'웨
+B_SV+an'n_en'n_in'n 안'ㄴ_언'ㄴ_인'ㄴ
+B_SV+ang'ng_ing'ng_eng'ng 앙'ㅇ_잉'ㅇ_엉'ㅇ
+B_SV+ai'i_ei'i_ao'o 아이'이_에이'이_아오'오
+B_SV+vn'n_ong'ng_ou'u (v)윈'ㄴ_옹'ㅇ_오우'우
+B_SVV+an'Y'ya_an'W'wa 안'이'야_안'우'와
+B_SVV+an'V'yue 안'(v)위'위에
+
+B_SVV+an'an'o'an'en'in'ii 안'안'오어'안'언'인'으
+B_SVV+an'wu'an'vn'er'an'oo 안'우'안'(v)윈'(er)얼'안'오
+B_SVV+an'ee'ang'ee 안'에'앙'에
+B_SVV+ang'ang'o'ang'eng'ing'ii 앙'앙'오어'앙'엉'잉'으
+B_SVV+ang'wu'ang'v'ang'er'ang'oo 앙'우'앙'(v)위'앙'(er)얼'앙'오
+B_SVV+ang'Y'ya_ang'W'wa 앙'이'야_앙'우'와
+B_SVV+ang'V'yue 앙'(v)위'위에
+
+B_SVV+ai'ai'o'ai'e'ai'yi 아이'아이'오어'아이'으어'아이'이
+B_SVV+ai'wu'ai'yu'ai'er'ai'oo 아이'우'아이'(v)위'아이'(er)얼'아이'오
+B_SVV+ao'ao'o'ao'e'ao'yi 아오'아오'오어'아오'으어'아오'이
+B_SVV+ao'wu'ao'yu'ao'er'ao'oo 아오'우'아오'(v)위'아오'(er)얼'아오'오
+B_SVV+ou'ou'o'ou'e'ou'yi 오우'오우'오어'오우'으어'오우'이
+B_SVV+ou'wu'ou'yu'ou'er'ou'oo 오우'우'오우'(v)위'오우'(er)얼'오우'오
+B_SVV+ai'ee'ao'ee'ou'ee 아이'에'아오'에'오우'에
+B_SVV+ai'ii'ao'ii'ou'ii 아이'으'아오'으'오우'으
+B_SVV+ou'a 오우'아
+
+B_SVV+a'Y'ya_a'W'wa 아'이'야_아'우'와
+B_SVV+o'Y'ya_o'W'wa 오어'이'야_오어'우'와
+B_SVV+a'V'yue_o'V'yue 아'(v)위'위에_오어'(v)위'위에
+B_SVV+e'Y'ya_e'W'wa 으어'이'야_으어'우'와
+B_SVV+yi'Y'ya_yi'W'wa 이'이'야_이'우'와
+B_SVV+e'V'yue_yi'V'yue 으어'(v)위'위에_이'(v)위'위에
+B_SVV+wu'Y'ya_wu'W'wa 우'이'야_우'우'와
+B_SVV+yu'Y'ya_yu'W'wa (v)위'이'야_(v)위'우'와
+B_SVV+wu'V'yue_yu'V'yue 우'(v)위'위에_(v)위'위'위에
+B_SVV+oo'Y'ya_oo'W'wa 오'이'야_오'우'와
+B_SVV+ee'Y'ya_ee'W'wa 에'이'야_에'우'와
+B_SVV+ee'V'yue_oo'V'yue 에'(v)위'위에_오'(v)위'위에
+B_SVV+ai'Y'ya_ai'W'wa 아이'이'야_아이'우'와
+B_SVV+ao'Y'ya_ao'W'wa 아오'이'야_아오'우'와
+B_SVV+ai'V'yue_ao'V'yue 아이'(v)위'위에_아오'(v)위'위에
+B_SVV+ou'Y'ya_ou'W'wa 오우'이'야_오우'우'와
+B_SVV+ou'V'yue 오우'(v)위'위에
+
+B_SVR+ai'R_ao'R_ou'R 아이'R_아오'R_오우'R
+B_SVR+an'R_ang'R 안'R_앙'R
+
+CVC_a+a'ba'pa'ma'fa'da'ta'na 아'바'파'마'(f)퐈'다'따'나
+CVC_a+a'la'za'ca'sa'zha'cha'sha 아'(l)ㄹ라'(z)즈아'(c)츠아'싸'(zh)자'(ch)차'(sh)사
+CVC_a+a'ga'ka'ha 아'가'카'하
+VC_a+a'rao_a'ji_a'qi 아'라오_아'지_아'치
+VC_a+a'xi 아'씨
+
+CVC_o+o'bo'po'mo'fo 오어'보어'포어'모어'(f)포어
+VC_o+o'da_o'ta_o'na 오어'다_오어'따_오어'나
+VC_o+o'la_o'za_o'ca 오어'(l)ㄹ라_오어'(z)즈아_오어(c)츠아
+VC_o+o'sa_o'zha_o'cha 오어'싸_오어'(zh)자_오어'(ch)차
+VC_o+o'sha'_o'rao_o'ji 오어'(sh)사_오어'라오_오어'지
+VC_o+o'qi_o'xi_o'ga 오어'치_오어'씨_오어'가
+VC_o+o'ka_o'ha 오어'카_오어'하
+
+CVC_e+e'me'de'te'ne'le 으어'으어'므어'드어'뜨어'느어'(l)ㄹ르어
+CVC_e+e'ge'ke'he 으어'으어'그어'크어'흐어
+CV_e+e'be'pe'me'fe'ze'ce're 으어'브어'프어'므어'(f)프어'(z)즈어'츠어'(r)르어
+CV_e+e'se'zhe'che'she 으어'쓰어'(zh)즈어'(ch)츠어'(sh)쓰어
+VC_e+e'ba_e'pa_e'fa 으어'바_으어'파_으어'(f)퐈
+VC_e+e'za_e'ca_e'sa 으어'(z)즈아_으어'(c)츠아_으어'싸
+VC_e+e'zha_e'cha_e'sha 으어'(zh)자_으어'(ch)차_으어'(sh)사
+VC_e+e'rao_e'ji_e'qi 으어'라오_으어'지_으어'치
+VC_e+e'xi 으어'씨
+
+CVC_i+i'bi'pi'mi'di'ti'ni'li 이'비'피'미'디'띠'니'(l)ㄹ리
+CVC_i+i'ji'qi'xi 이'지'치'씨
+VC_i+i'fa_i'za_i'ca 이'(퐈)_이'(z)즈아_이'(c)차
+VC_i+i'sa_i'rao_i'ga 이'싸_이'라오_이'가
+VC_i'zha_i'cha_i'sha 이'(zh)자_이'(ch)차_이'(sh)사
+VC_i'ka_i'ha 이'카_이'하
+
+CVC_ii+ii'zi'ci'shi'zhi'chi'shi'ri 으'(z)즈'츠'(sh)스'(zh)즈'(sh)스'(r)르
+VC_ii+ii'ba_ii'pa_ii'ma 으'바_으'파_으'마
+VC_ii+ii'fa_ii'da_ii'ta 으'(f)퐈_으'다_으'따
+VC_ii+ii'na_ii'la_ii'ji 으'나_으'(ㄹ)라_으'지
+VC_ii+ii'qi_ii'xi_ii'ga 으'치_으'씨_으'가
+VC_ii+ii'ka_ii'ha 으'카_으'하
+
+CVC_u+u'bu'pu'mu'fu'du'tu'nu
+CVC_u+u'lu'zu'cu'su'zhu'chu'shu
+CVC_u+u'ru'gu'ku'hu
+VC_u+u'ji_u'qi_u'xi
+
+CVC_v+v'nv'lv'ju'qu'xu (v)위'뉘'(l)ㄹ뤼'쥐'취'쒸
+VC_v+v'ba_v'pa_v'ma (v)위'바_(v)위'파_(v)위'마
+VC_v+v'fa_v'da_v'ta (v)위'(f)퐈_위'다_위'따
+VC_v+v'za_v'ca_v'sa (v)위'(z)즈아_위'(c)츠아_위'싸
+VC_v+v'zha_v'cha_v'sha (v)위'(zh)자_위'(ch)차_위'(sh)사
+VC_v+v'rao_v'ga_v'ka (v)위'라오_위'가_위'카
+VC_v+v'ha (v)위'하
+
+CVC_oo+oo'poo'moo'foo'doo'too'noo'loo 오'포'모'(f)포'도'또'노'(l)ㄹ로
+CVC_oo+oo'zoo'coo'soo'zhoo'choo'shoo'roo 오'(z)즈오'(c)츠오'(zh)즈오'(ch)츠오'(sh)쇼오
+CVC_oo+oo'goo'koo'hoo 오'고'코'호
+VC_oo+oo'ba_oo'ji_oo'qi 오'바_오'지_오'치
+VC_oo+oo'xi 오'씨
+
+CVC_ee+ee'bee'pee'mee'dee'tee'nee'lee 에'베'페'메'데'떼'네'(l)ㄹ레
+CVC_ee+ee'zee'zhee'shee'gee'kee'hee 에'(z)즈에'(zh)제'(sh)세'게'케'헤
+VC_ee+ee'ta_ee'ca_ee'sa 에'따_에'(c)츠아_에'싸
+VC_ee+ee'cha_ee'rao_ee'ji 에'(ch)차_에'라오_에'지
+VC_ee+ee'qi_ee'xi 에'치_에'씨
+
+CV_Y+Y'bY'pY'mY'dY'tY'nY'lY 이'비'피'미'디'띠'니'(l)리
+CV_Y+Y'jY'qY'xY 이'지'치'씨
+
+CV_W+W'bW'dW'tW'nW'lW'zW'cW 우'부'두'뚜'누'(l)ㄹ루'(z)즈우'(c)츠우
+CV_W+W'sW'zhW'chW'shW'rW'gW'kW 우'쑤'(zh)주'(ch)추'(sh)수'(r)루'구'쿠
+CV_W+W'hW 우'후
+
+CV_V+V'nV'lY'jV'qV'xV (v)위'뉘'(l)뤼'쥐'취'쒸
+
+VC_er+er'ga_er'pa_er'ma (er)얼'가_얼'파_얼'마
+VC_er+er'fa_er'ta_er'na (er)얼'(f)퐈_얼'따_얼'나
+VC_er+er'la_er'za_er'ca (er)얼'(l)ㄹ라_얼'(z)즈아_얼'(c)츠아
+VC_er+er'sa_er'zha_er'sha (er)얼'싸_얼'(zh)자_얼'(sh)사
+VC_er+er'cha_er'sha_er'rao (er)얼'(ch)차_얼'(sh)차_얼'(r)롸오
+VC_er+er'ji_er'qi_er'xi (er)얼'지_얼'치_얼'씨
+VC_er+er'ga_er'ka_er'ha 얼'가_얼'카_얼'하
+
+VC_BSV_i+ai'ba_ai'pa_ai'ma 아이'바_아이'파_아이'마
+VC_BSV_i+ai'fa_ai'da_ai'ta 아이'(f)퐈_아이'다_아이'따
+VC_BSV_i+ai'na_ai'la_ai'za 아이'나_아이'(l)ㄹ라_아이'(z)즈아
+VC_BSV_i+ai'ca_ai'sa_ai'zha 아이'(c)츠아_아이'싸_아이'(zh)자
+VC_BSV_i+ai'cha_ai'sha_ai'rao 아이'(ch)차_아이'(sh)사_아이'(r)롸오
+VC_BSV_i+ai'ji_ai'qi_ai'xi 아이'지_아이'치_아이'씨
+VC_BSV_i+ai'ga_ai'ka_ai'ha 아이'가_아이'카_아이'하
+
+VC_BSV_o+ao'ba_ao'pa_ao'ma 아오'바_아오'파_아오'마
+VC_BSV_o+ao'fa_ao'da_ao'ta 아오'(f)퐈_아오'다_아오'따
+VC_BSV_o+ao'na_ao'la_ao'za 아오'나_아오'(l)ㄹ라_아오'(z)즈아
+VC_BSV_o+ao'ca_ao'sa_ao'zha 아오'(c)츠아_아오'싸_아오'(zh)자
+VC_BSV_o+ao'cha_ao'sha_ao'rao 아오'(ch)차_아오'(sh)사_아오'(r)롸오
+VC_BSV_o+ao'ji_ao'qi_ao'xi 아오'지_아오'치_아오'씨
+VC_BSV_o+ao'ga_ao'ka_ao'ha 아오'가_아오'카_아오'하
+
+VC_BSV_u+ou'ba_ou'pa_ou'ma 오우'바_오우'파_오우'마
+VC_BSV_u+ou'fa_ou'da_ou'ta 오우'(f)퐈_오우'다_오우'따
+VC_BSV_u+ou'na_ou'la_ou'za 오우'나_아우'(l)ㄹ라_오우'(z)즈아
+VC_BSV_u+ou'ca_ou'sa_ou'zha 오우'(c)츠아_오우'싸_오우'(zh)자
+VC_BSV_u+ou'cha_ou'sha_ou'rao 오우'(cha)차_오우'(sh)사_오우'(r)롸오
+VC_BSV_u+ou'ji_ou'qi_ou'xi 오우'지_오우'치_오우'씨
+VC_BSV_u+ou'ga_ou'ka_ou'ha 오우'가_오우'카_오우'하
+
+VC_BSV_n+an'ba_an'pa_an'ma 안'바_안'파_안'마
+VC_BSV_n+an'fa_an'da_an'ta 안'(f)퐈_안'다_안'따
+VC_BSV_n+an'na_an'la_an'za 안'나_안'(l)ㄹ라_안'(z)즈아
+VC_BSV_n+an'ca_an'sa_an'zha 안'(c)츠아_안'싸_안'(zh)자
+VC_BSV_n+an'cha_an'sha_an'rao 안'(ch)차_안'(sh)사_안'(r)롸오
+VC_BSV_n+an'ji_an'qi_an'xi 안'지_안'치_안'씨
+VC_BSV_n+an'ga_an'ka_an'ha 안'가_안'카_안'하
+
+VC_BSV_ng+ang'ba_ang'pa_ang'ma 앙'바_앙'파_앙'마
+VC_BSV_ng+ang'fa_ang'da_ang'ta 앙'(f)퐈_앙'다_앙'따
+VC_BSV_ng+ang'na_ang'la_ang'za 앙'나_앙'(l)ㄹ라_앙'(z)즈아
+VC_BSV_ng+ang'ca_ang'sa_ang'zha 앙'(c)츠아_앙'싸_앙'(zh)자
+VC_BSV_ng+ang'cha_ang'sha_ang'rao 앙'(ch)차_앙'(sh)사_앙'(r)롸오
+VC_BSV_ng+ang'ji_ang'qi_ang'xi 앙'지_앙'치_앙'씨
+VC_BSV_ng+ang'ga_ang'ka_ang'ha 앙'가_앙'카_앙'하
